@@ -2,7 +2,7 @@
 
 **Latent Assets** is a powerful, modern image management system that leverages vector embeddings and semantic search to organize and retrieve your images based on their content, not just their filenames.
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot 2026-02-25 001404.png)
 
 ## 🚀 Features
 
