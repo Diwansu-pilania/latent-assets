@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Node
+node_modules/
+dist/
+build/
+.eslintcache
+
+# Project Specific
+vector_store/
+latent-assets/backend/vector_store/
+latent-assets/backend/assets/
+experiments/inference_api/.venv/
+latent-assets/backend/.venv/
+latent-assets/frontend/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
